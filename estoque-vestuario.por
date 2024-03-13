@@ -2,7 +2,7 @@ programa
 {
 	
 	const cadeia MENSAGEM_FINAL = "\n\nObrigado o nosso controle de estoque!!!!"
-	const cadeia MENSAGEM_CONTINUAR_PROGRAMA = "\n\nDeseja continuar cadastrando?\nDigite 1 para SIM e 2 para NÃO.\n"
+	const cadeia MENSAGEM_CONTINUAR_PROGRAMA = "\n\nDeseja continuar consultando?\nDigite 1 para SIM e 2 para NÃO.\n"
 	const cadeia MENSAGEM_OPCAO_INVALIDA = "\n Opção inválida\n\n"
 	
 	inteiro opcao = 1
@@ -44,7 +44,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 351; 
+ * @POSICAO-CURSOR = 168; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
